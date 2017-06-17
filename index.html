@@ -1,10 +1,9 @@
 <!DOCTYPE html>
-<html itemscope itemtype="http://schema.org/WebPage" lang="en">
+<html lang="en">
 
 <head>
 
-	<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
-	<meta content="/img/favicon/favicon-128.png" itemprop="image">
+    <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>Mark Hjorth</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -109,16 +108,16 @@
     </nav>
 
     <!-- Header -->
-    <header itemscope itemtype="http://schema.org/Person">
+    <header>
         <div class="container" id="maincontent" tabindex="-1">
             <div class="row">
                 <div class="col-lg-12">
-                    <img itemprop="image" class="img-responsive" src="img/profile.png" alt="">
+                    <img class="img-responsive" src="img/profile.png" alt="">
                     <div class="intro-text">
-                        <h1 itemprop="name" class="name">Mark Hjorth</h1>
+                        <h1 class="name">Mark Hjorth</h1>
                         <hr class="star-light">
-                        <span itemprop="jobTitle" class="skills">Game Developer - Programmer</span>
-						<br><hr2>Currently working with <span itemprop="affiliation">PLAYHEIM</span></hr2>
+                        <span class="skills">Game Developer - Programmer</span>
+			<br><hr2>Currently looking for new challenges! Paid, as well as unpaid work.</hr2>
                     </div>
                 </div>
             </div>
@@ -449,6 +448,29 @@
 
     <!-- Theme JavaScript -->
     <script src="js/freelancer.min.js"></script>
+
+	<!-- Structured Data Person -->
+    <script type="application/ld+json">
+	{
+	  "@context": "http://schema.org",
+	  "@type": "Person",
+	  "name": "Mark Hjorth",
+	  "givenName": "Mark Hjorth",
+	  "familyName": "Sørensen",
+	  "image": "http://markhjorth.com/img/profile.png",
+	  "url": "http://markhjorth.com",
+	  "sameAs": [
+	    "http://www.facebook.com/MarkHjorthSorensen",
+	    "http://instagram.com/MarkHjorth",
+	    "http://www.linkedin.com/in/MarkHjorthSorensen",
+	    "http://plus.google.com/+MarkHjorthSorensen",
+	    "https://github.com/markhjorth",
+	    "https://bitbucket.org/MarkHjorth",
+	    "https://twitter.com/markhjorth",
+	    "https://reddit.com/user/MarkHjorth"
+	  ]
+	}
+	</script>
 
     <script>
 	var kkeys = [];
