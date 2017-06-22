@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/markhjorth
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://markhjorth.com
+  * I am markhjorth (https://keybase.io/markhjorth) on keybase.
+  * I have a public key ASD4QIUo61t3_E0JBuf_QQ2t3hmDunrxpinKp5wXqHNkjgo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120f8408528eb5b77fc4d0906e7ff410dadde1983ba7af1a629caa79c17a873648e0a",
+            "host": "keybase.io",
+            "kid": "0120f8408528eb5b77fc4d0906e7ff410dadde1983ba7af1a629caa79c17a873648e0a",
+            "uid": "1224016bdbf45554545f2b05aef69e19",
+            "username": "markhjorth"
+        },
+        "merkle_root": {
+            "ctime": 1498128931,
+            "hash": "e207e9e6e451a00ac6a720eb0757db8744b73daa66a74922bdfbc7a3fb69a8c8818faf293d8104925d94fae61c368d64c043e2fa87292382e8808e7efc52db21",
+            "hash_meta": "1eb5b72cfe23f50cae58d90f3ae76a3ab023005fa74e14d5ec8349c232827794",
+            "seqno": 1186908
+        },
+        "service": {
+            "hostname": "markhjorth.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.24"
+    },
+    "ctime": 1498128997,
+    "expire_in": 504576000,
+    "prev": "02335ba552ad7b6ffefd9c0e309a5cc26c30d9d0cadb133a3f95fc5ec325f94f",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg+ECFKOtbd/xNCQbn/0ENrd4Zg7p68aYpyqecF6hzZI4Kp3BheWxvYWTFA0d7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZjg0MDg1MjhlYjViNzdmYzRkMDkwNmU3ZmY0MTBkYWRkZTE5ODNiYTdhZjFhNjI5Y2FhNzljMTdhODczNjQ4ZTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZjg0MDg1MjhlYjViNzdmYzRkMDkwNmU3ZmY0MTBkYWRkZTE5ODNiYTdhZjFhNjI5Y2FhNzljMTdhODczNjQ4ZTBhIiwidWlkIjoiMTIyNDAxNmJkYmY0NTU1NDU0NWYyYjA1YWVmNjllMTkiLCJ1c2VybmFtZSI6Im1hcmtoam9ydGgifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0OTgxMjg5MzEsImhhc2giOiJlMjA3ZTllNmU0NTFhMDBhYzZhNzIwZWIwNzU3ZGI4NzQ0YjczZGFhNjZhNzQ5MjJiZGZiYzdhM2ZiNjlhOGM4ODE4ZmFmMjkzZDgxMDQ5MjVkOTRmYWU2MWMzNjhkNjRjMDQzZTJmYTg3MjkyMzgyZTg4MDhlN2VmYzUyZGIyMSIsImhhc2hfbWV0YSI6IjFlYjViNzJjZmUyM2Y1MGNhZTU4ZDkwZjNhZTc2YTNhYjAyMzAwNWZhNzRlMTRkNWVjODM0OWMyMzI4Mjc3OTQiLCJzZXFubyI6MTE4NjkwOH0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJtYXJraGpvcnRoLmNvbSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMjQifSwiY3RpbWUiOjE0OTgxMjg5OTcsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiMDIzMzViYTU1MmFkN2I2ZmZlZmQ5YzBlMzA5YTVjYzI2YzMwZDlkMGNhZGIxMzNhM2Y5NWZjNWVjMzI1Zjk0ZiIsInNlcW5vIjo3LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQDBbDPK1Q+IYpdaLteWDVkVujGh5rO38dkLTpAE0ZAZIsALuy/yW2D8q1I5SasxqXVs3LKhsF9bka1caeudGJg6oc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCDRMKHPm4nGbPscSWh6op4OkuoPPd52Dod3a8EJAF9GYqN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/markhjorth
+
+==================================================================
